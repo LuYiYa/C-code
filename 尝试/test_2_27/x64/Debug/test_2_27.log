@@ -1,0 +1,6 @@
+﻿  test_2_27.cpp
+D:\code\test_2_27\test_2_27\test_2_27.cpp(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\test_2_27\test_2_27\test_2_27.cpp(13,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\test_2_27\test_2_27\test_2_27.cpp(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\test_2_27\test_2_27\test_2_27.cpp(14,9): message : 请考虑在格式字符串中使用“%zd”
+  test_2_27.vcxproj -> D:\code\test_2_27\x64\Debug\test_2_27.exe
